@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# CHAIN WARS NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+### ERC721 compliant NFT project hosted on sepolia testnet and opensea
+### deployment address : 0x9A73312C103b79bF5d88f59b92FBDF843F3D1186
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+
